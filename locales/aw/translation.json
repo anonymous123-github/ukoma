@@ -1,0 +1,48 @@
+{
+    "about": "Ye pamąxu netą",
+    "enterKey": "Peme",
+    "deleteKey": "Pekung",
+    "notEnoughLetters": "Tupiyąhąpiyąhąpą ukeyit",
+    "wordNotFound": "Ngotunuhąhałąyo a uke",
+    "solution": "Yengyo uke {{solution}}",
+    "gameCopied": "Etumeřąyo a pamąxu ukekoł a unihą",
+    "howToPlay": "Nan tukuřwąnawe",
+    "instructions": "Etuřuyątaząn a uke {{tries}} pengąxą a netą. Peřuyąt manąrą a unitą, tungwąngwąłu exetem a dąng xątukuhązohązo peřuyąti a penąxetą uke a netą.",
+    "pickYourLanguage": "Etunąxeząn a wąy",
+    "correctSpotInstructions": "Yeng a ukeyit Ą uke a netą rąyeng eną a ątwi a nątą.",
+    "wrongSpotInstructions": "Yeng a ukeyit W uke a netą kahiyengapą eną a ątwi a nątą.",
+    "notInWordInstructions": "Yengapą a ukeyit W uke a netą.",
+    "guessDistribution": "Peřuyąt a peyiłinąxatą",
+    "statistics": "Yiłin",
+    "totalTries": "Pengąxą a łąxe",
+    "successRate": "Pehątwi a kołata",
+    "currentStreak": "Kin kode",
+    "bestStreak": "Kin a mąmun",
+    "newWordCountdown": "Manu uke",
+    "share": "Pehąyenipungwą",
+    "firstExampleWord": [
+        "Ą",
+        "X",
+        "A",
+        "T",
+        "Ą"
+    ],
+    "secondExampleWord": [
+        "P",
+        "E",
+        "Ł",
+        "Ą",
+        "R"
+    ],
+    "thirdExampleWord": [
+        "U",
+        "R",
+        "U",
+        "W",
+        "Ą"
+    ],
+    "aboutAuthorSentence": "Ye pamąxu a Wordle a open source pemeřą, xątunahanayo a <3>{{author}}</3> Wawąting a zetą. ",
+    "aboutCodeSentence": "¡Etwanaząn <1>mwihąn code</1> <3>Hannah Park</3> a mitą angetuzumąząn <5>Aidan Pine's a pekahapatą</5> rąhetumengwąząn wąy a mutą! ",
+    "aboutDataSentence": "Tukwoyoyo a uke ye pamąxu a mutą <1>{{wordListSource}}</1> a mitą. ",
+    "aboutOriginalSentence": "Tiząmi <1>imą</1> etuřwąhałą a mwihąn."
+}
