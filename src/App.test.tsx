@@ -5,9 +5,9 @@ import { WORDS } from './constants/wordlist'
 import { ORTHOGRAPHY_PATTERN } from './lib/tokenizer'
 import { CONFIG } from './constants/config'
 
-test('renders Ukoma - uke a Wawąting a pamąxutą', () => {
+test('renders Uke a Wawąting a pamąxutą', () => {
   render(<App />)
-  const linkElement = screen.getByText(/Ukoma - uke a Wawąting a pamąxutą/i)
+  const linkElement = screen.getByText(/Uke a Wawąting a pamąxutą/i)
   expect(linkElement).toBeInTheDocument()
 })
 
