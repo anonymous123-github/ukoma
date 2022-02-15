@@ -7,7 +7,7 @@
     "solution": "The word was {{solution}}",
     "gameCopied": "Game copied to clipboard",
     "howToPlay": "How to play",
-    "instructions": "Guess the word in {{tries}} tries. After each guess, the color of the tiles will change to show how close your guess was to the word.",
+    "instructions": "Guess the word in {{tries}} tries. After each guess, the color of the tiles will change to show how close your guess was to the word. Note that inflected words are included in the wordlist; however, verb roots are not considered valid guesses.",
     "pickYourLanguage": "Choose a language",
     "correctSpotInstructions": "The letter W is in the word and in the correct spot.",
     "wrongSpotInstructions": "The letter L is in the word but in the wrong spot.",

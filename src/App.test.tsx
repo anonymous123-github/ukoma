@@ -5,9 +5,9 @@ import { WORDS } from './constants/wordlist'
 import { ORTHOGRAPHY_PATTERN } from './lib/tokenizer'
 import { CONFIG } from './constants/config'
 
-test('renders Not Wordle', () => {
+test('renders Ukoma - uke a Wawąting a pamąxutą', () => {
   render(<App />)
-  const linkElement = screen.getByText(/Not Wordle/i)
+  const linkElement = screen.getByText(/Ukoma - uke a Wawąting a pamąxutą/i)
   expect(linkElement).toBeInTheDocument()
 })
 
