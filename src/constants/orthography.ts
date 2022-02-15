@@ -18,12 +18,12 @@ export const ORTHOGRAPHY = [
   'O',
   'P',
   'R',
-  "Ř",
-  "X",
+  'Ř',
+  'X',
   'T',
-  "U",
+  'U',
   'W',
-  "Y",
+  'Y',
   'Z',
 ]
 
